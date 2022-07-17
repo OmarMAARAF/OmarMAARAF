@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **omarmaaraf0@gmail.com**
+- <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
