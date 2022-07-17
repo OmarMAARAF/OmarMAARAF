@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maaraf Omar</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">A passionate web developer from Oujda ,Morocco</h3>
 
 - 🔭 I’m currently Student at **ENSAO**
