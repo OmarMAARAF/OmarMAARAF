@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my engineering degree  
   
 
-- 🌱 I am currently interning at <a href="https://inventiv-it.fr/" target="_blank">Inventiv-It</a> Company.
+- 🌱 I am currently looking for an internship opportunity.
   
 
 - ❓ Ask me on my email : omarmaaraf0@gmail.com  
